@@ -10,6 +10,10 @@
     border-style: inset inset none none;
     height: 100%;
 }
+.image2{
+    float: right;
+    height: 20rem;
+}
 
 .container-galery {
     display: flex;
