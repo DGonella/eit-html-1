@@ -1,0 +1,41 @@
+form{
+    margin: 2rem;
+    padding-top: 2rem;
+}
+input, textarea{
+    border-radius: 1.5rem;
+    border: 1px solid black;
+    font-family: sans-serif;
+    padding: 0.25rem;
+    margin: 0.5rem 0;
+    display: block;
+    width: 15rem;
+    resize: none;
+}
+
+input{
+    height: 1.5rem;
+}
+
+input[type="checkbox"]{
+    width:1.5rem;
+}
+
+.field-condition{
+    display: flex;
+    align-items: center;
+}
+
+form button{
+    width: 15rem;
+    border-radius: 1.5rem;
+    background-color: rgb(135, 65, 226);
+    color: rgb(97, 228, 64);
+    border: none;
+    padding: 0.5rem;
+}
+
+form button:hover{
+    color: rgb(135, 65, 226);
+    background-color:rgb(97, 228, 64);
+}

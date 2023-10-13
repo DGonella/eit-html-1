@@ -17,7 +17,7 @@ nav ul li {
 }*/
 
 a:link{
-    color: grey;
+    color: rgb(192, 192, 192);
     text-decoration: none;
 }
 
@@ -27,12 +27,12 @@ a:active{
 }
 
 a:visited{
-    color: rgb(69, 57, 180);
+    color: rgb(149, 230, 129);
     text-decoration: none;
 }
 
 a:hover{
-    color: rgb(241, 181, 241);
+    color: rgb(205, 173, 247);
     font-size: 1.75rem;
     text-decoration: underline;
     cursor:default;
@@ -40,7 +40,7 @@ a:hover{
 
 .header-container {
     align-items: center;
-    background-color: antiquewhite;
+    background-color: rgb(135, 65, 226);
     border-bottom: 1px solid black;
     display: flex;
     justify-content: space-between;
