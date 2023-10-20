@@ -2,7 +2,7 @@ form{
     margin: 2rem;
     padding-top: 2rem;
 }
-input, textarea{
+input, textarea, select{
     border-radius: 1.5rem;
     border: 1px solid black;
     font-family: sans-serif;
